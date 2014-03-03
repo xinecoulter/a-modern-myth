@@ -11,3 +11,16 @@
  *= require_self
  *= require_tree .
  */
+
+html, body {
+    height: 100%;
+}
+
+.black-bg {
+  background-color: #000000;
+  height: 100%;
+}
+
+.theme-showcase {
+  text-align: center;
+}
