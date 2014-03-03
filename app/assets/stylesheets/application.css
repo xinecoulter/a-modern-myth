@@ -16,6 +16,10 @@ html, body {
     height: 100%;
 }
 
+body {
+  padding-top: 50px;
+}
+
 .black-bg {
   background-color: #000000;
   height: 100%;
