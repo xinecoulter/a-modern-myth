@@ -24,3 +24,8 @@ html, body {
 .theme-showcase {
   text-align: center;
 }
+
+.carousel-inner .item img {
+  margin-left: auto;
+  margin-right: auto;
+}
